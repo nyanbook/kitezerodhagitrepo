@@ -22,7 +22,7 @@ public class LaunchBrowser {
 		//driver.manage().timeouts().implicitlyWait(Duration.ofMillis(10000));//implicit wait
 		return driver;
 			
-		
+		//my new code
 	}
 
 }
